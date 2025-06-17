@@ -10,4 +10,6 @@ Here is what you need to do:
 5. Create a new file in the `interns/` directory named `your-name.md`.
 6. Write a few sentences about yourself and your goals for the internship.
 7. Commit and push your changes.
-8. Create a merge request.
+8. Make a .log file somewhere in the repo
+9. Add .log files to the .gitignore file
+10. Create a merge request.
